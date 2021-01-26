@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\TestAPI\TestAPI\bin\Debug\netcoreapp3.1\TestAPI.exe
+C:\Users\Administrator\source\repos\TestAPI\TestAPI\bin\Debug\netcoreapp3.1\TestAPI.deps.json
+C:\Users\Administrator\source\repos\TestAPI\TestAPI\bin\Debug\netcoreapp3.1\TestAPI.runtimeconfig.json
+C:\Users\Administrator\source\repos\TestAPI\TestAPI\bin\Debug\netcoreapp3.1\TestAPI.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\TestAPI\TestAPI\bin\Debug\netcoreapp3.1\TestAPI.dll
+C:\Users\Administrator\source\repos\TestAPI\TestAPI\bin\Debug\netcoreapp3.1\TestAPI.pdb
+C:\Users\Administrator\source\repos\TestAPI\TestAPI\obj\Debug\netcoreapp3.1\TestAPI.vbprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\TestAPI\TestAPI\obj\Debug\netcoreapp3.1\TestAPI.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\TestAPI\TestAPI\obj\Debug\netcoreapp3.1\TestAPI.AssemblyInfo.vb
+C:\Users\Administrator\source\repos\TestAPI\TestAPI\obj\Debug\netcoreapp3.1\TestAPI.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TestAPI\TestAPI\obj\Debug\netcoreapp3.1\TestAPI.dll
+C:\Users\Administrator\source\repos\TestAPI\TestAPI\obj\Debug\netcoreapp3.1\TestAPI.pdb
+C:\Users\Administrator\source\repos\TestAPI\TestAPI\obj\Debug\netcoreapp3.1\TestAPI.genruntimeconfig.cache
